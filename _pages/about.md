@@ -18,7 +18,7 @@ Given a fixed deep learning model architecture, how much does the final performa
 
 Developing applications around big data has been a big passion of mine. I experiment alot with new machine learning models applying them in different domains. 
 
-I recently won [Dutch mobility hackathon](https://www.dutchmobilityhackathon.nl/)! (blog upcoming)
+I recently won [Dutch mobility hackathon](https://www.linkedin.com/posts/xuyudi_hackathon-dutch-mobility-activity-6604074373278126080-A0pM)! 
 
 Take a look at my blog, feel free to contact me via email.
 
