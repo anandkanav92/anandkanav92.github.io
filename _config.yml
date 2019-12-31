@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kanav Anand"
 description              : &description "I am currently in my final year of MSc in Data Science and Technology. I have 3 years of professional experience of working on big data pipelines, android applications, and web applications. I am still a newbie in Data Science but I am a newbie with a lot of curiosity and passion! "
