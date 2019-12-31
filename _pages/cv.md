@@ -24,7 +24,8 @@ Work experience
   * Worked with the Big Data team to shift from pintail to Kafka platform, an open-source platform used for building real-time data pipelines catering over a billion events each day improving the ingestion rate by hours.
   * Worked with the USER platform team to develop and test live batch streaming applications for gathering appropriate information about users from terabytes of data, using Spark and Aerospike. This collected information is used for showing relevant ads.
 * Knolskape 2014: Software Developer
-  * Worked on a web-based application that is used to evaluate the performance of a relationship manager. My responsibilities included database schema designing, developing back-end using Laravel(PHP) and implementing the front-end using Javascript(Backbone.js). These simulations enabled MNCs to filter out ideal candidates in earlier stages. [LINK](https://blog.knolskape.com/hubfs/simualtions%20ebooks%20whitepaper/KNOLSKAPE_Inbox_Simulation.pdf)     
+  * Worked on a web-based application that is used to evaluate the performance of a relationship manager. My responsibilities included database schema designing, developing back-end using Laravel(PHP) and implementing the front-end using Javascript(Backbone.js). These simulations enabled MNCs to filter out ideal candidates in earlier stages. [LINK](https://blog.knolskape.com/hubfs/simualtions%20ebooks%20whitepaper/KNOLSKAPE_Inbox_Simulation.pdf)    
+ 
 Skills
 ======
 * Java, Python
