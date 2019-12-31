@@ -6,7 +6,11 @@
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
-        <img src=
+        <img style="-webkit-transform: rotate(90deg);
+                    -moz-transform: rotate(90deg);
+                    -o-transform: rotate(90deg);
+                    -ms-transform: rotate(90deg);
+                    transform: rotate(90deg);" src=
         {% if s.image contains "://" %}
           "{{ s.image }}"
         {% else %}
